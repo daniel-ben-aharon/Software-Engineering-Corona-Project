@@ -1,0 +1,13 @@
+C:\Users\ohadbe\source\repos\CoronaProjectDaniel\CoronaProjectDaniel\obj\Debug\netcoreapp3.1\CoronaProjectDaniel.csprojAssemblyReference.cache
+C:\Users\ohadbe\source\repos\CoronaProjectDaniel\CoronaProjectDaniel\obj\Debug\netcoreapp3.1\CoronaProjectDaniel.csproj.CoreCompileInputs.cache
+C:\Users\ohadbe\source\repos\CoronaProjectDaniel\CoronaProjectDaniel\obj\Debug\netcoreapp3.1\CoronaProjectDaniel.AssemblyInfoInputs.cache
+C:\Users\ohadbe\source\repos\CoronaProjectDaniel\CoronaProjectDaniel\obj\Debug\netcoreapp3.1\CoronaProjectDaniel.AssemblyInfo.cs
+C:\Users\ohadbe\source\repos\CoronaProjectDaniel\CoronaProjectDaniel\bin\Debug\netcoreapp3.1\CoronaProjectDaniel.exe
+C:\Users\ohadbe\source\repos\CoronaProjectDaniel\CoronaProjectDaniel\bin\Debug\netcoreapp3.1\CoronaProjectDaniel.deps.json
+C:\Users\ohadbe\source\repos\CoronaProjectDaniel\CoronaProjectDaniel\bin\Debug\netcoreapp3.1\CoronaProjectDaniel.runtimeconfig.json
+C:\Users\ohadbe\source\repos\CoronaProjectDaniel\CoronaProjectDaniel\bin\Debug\netcoreapp3.1\CoronaProjectDaniel.runtimeconfig.dev.json
+C:\Users\ohadbe\source\repos\CoronaProjectDaniel\CoronaProjectDaniel\bin\Debug\netcoreapp3.1\CoronaProjectDaniel.dll
+C:\Users\ohadbe\source\repos\CoronaProjectDaniel\CoronaProjectDaniel\bin\Debug\netcoreapp3.1\CoronaProjectDaniel.pdb
+C:\Users\ohadbe\source\repos\CoronaProjectDaniel\CoronaProjectDaniel\obj\Debug\netcoreapp3.1\CoronaProjectDaniel.dll
+C:\Users\ohadbe\source\repos\CoronaProjectDaniel\CoronaProjectDaniel\obj\Debug\netcoreapp3.1\CoronaProjectDaniel.pdb
+C:\Users\ohadbe\source\repos\CoronaProjectDaniel\CoronaProjectDaniel\obj\Debug\netcoreapp3.1\CoronaProjectDaniel.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CoronaProjectDaniel": {
+      "commandName": "Project",
+      "commandLineArgs": "HelpTest.txt"
+    }
+  }
+}
